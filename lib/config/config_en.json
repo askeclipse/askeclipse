@@ -1,0 +1,275 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "tinder",
+      "autoplay": true,
+      "items": [
+        {
+          "category": 23,
+          "image": "assets/images/blackshark-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/caa-accountants-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/capri-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/cookmore-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/dori-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/drivetorque-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/gifts-and-more-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/hararequarry-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/helia--banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/hiph-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/intergrated-properties-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/kudu-creek-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/masawara-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/nhimbe-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/nmb-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/pandas-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/playtime-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/nyaradzo-funeral-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/probands-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/pump-n-steel-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/ransbury-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/spinyard-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/tanganda-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/teechers-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/tintem-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/turnall-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/untu-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/vanleer-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/ve-gases-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/zida-banner.jpg",
+          "padding": 15.0
+        },{
+          "category": 23,
+          "image": "assets/images/zimavian-banner.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+    {"layout": "featuredVendors",
+      "name":"Featured"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "enableBorder": false,
+      "items": [
+        {
+          "category": 282,
+          "image": "assets/images/agriculture 3d icon.png"
+        },
+        {
+          "category": 157,
+          "image": "assets/images/restaurant icon 3d.png"
+        },
+        {
+          "category": 168,
+          "image": "assets/images/automotive icon 3d.png"
+        },
+        {
+          "category": 185,
+          "image": "assets/images/doctor icon 3d.png"
+        },
+        { "category": 135,
+          "image": "assets/images/shopping icon 3d.png"
+        },
+        {
+          "category": 133,
+          "image": "assets/images/legal icon 3d.png"
+        },
+        {
+          "category": 194,
+          "image": "assets/images/real estates 3d icon.png"
+        },
+        {
+          "category": 195,
+          "image": "assets/images/contractors 3d icon.png"
+        },
+        {
+          "category": 199,
+          "image": "assets/images/employment icon 3d.png"
+        },
+        {
+          "category": 204,
+          "image": "assets/images/school icon 3d.png"
+        },
+        {
+          "category": 126,
+          "image": "assets/images/business service 3d icon.png"
+        },
+        {
+          "category": 127,
+          "image": "assets/images/computer internet icon 3d.png"
+        },
+        {
+          "category": 137,
+          "image": "assets/images/construction icon 3d.png"
+        },
+        {
+          "category": 128,
+          "image": "assets/images/entertainment and media icon 3d.png"
+        },
+        {
+          "category": 129,
+          "image": "assets/images/events icon 3d.png"
+        },
+        {
+          "category": 131,
+          "image": "assets/images/finance icon 3d.png"
+        },
+        {
+          "category": 256,
+          "image": "assets/images/medical icon 3d.png"
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Collections"
+  },
+  "Setting": {
+    "MainColor": "#102E70",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/images/home icon.png",
+      "size": 50.0,
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "vendors",
+      "icon": "assets/images/shop  icon.png",
+      "size": 50.0,
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "assets/images/search icon.png",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 50
+    },
+    {
+      "pos": 400,
+      "icon": "assets/images/shop cart icon.png",
+      "size": 50.0,
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "size": 50.0,
+      "icon": "assets/images/profile  icon.png"
+    }
+  ]
+}
