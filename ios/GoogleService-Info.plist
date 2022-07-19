@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>412823237422-pf5dr3f75n6r201u24ocioin54u3cseq.apps.googleusercontent.com</string>
+	<string>312713572173-t5hk4rbev25g9da04nal8kpsddajb1d5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.412823237422-pf5dr3f75n6r201u24ocioin54u3cseq</string>
+	<string>com.googleusercontent.apps.312713572173-t5hk4rbev25g9da04nal8kpsddajb1d5</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>412823237422-3d7l4tv9d524qds81062g6vfr588u9rg.apps.googleusercontent.com</string>
+	<string>312713572173-8b92uimb1nc2c7vflv1hpc012prk7453.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA2BWeKRw-D7zHLnvVVoi6ahOqyucoa9s0</string>
+	<string>AIzaSyDkcRkMlrbtVgSdTwtLxRgNvuq0sQUJSHk</string>
 	<key>GCM_SENDER_ID</key>
-	<string>412823237422</string>
+	<string>312713572173</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.inspireui.mstore.flutter</string>
+	<string>com.askeclipse.ios</string>
 	<key>PROJECT_ID</key>
-	<string>fluxstore-inspireui</string>
+	<string>askeclipse-44bb7</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fluxstore-inspireui.appspot.com</string>
+	<string>askeclipse-44bb7.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:412823237422:ios:8947f503f8cb2000fb40bf</string>
+	<string>1:312713572173:ios:360350a7286f1756d05104</string>
 	<key>DATABASE_URL</key>
-	<string>https://fluxstore-inspireui.firebaseio.com</string>
+	<string>https://askeclipse-44bb7-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>

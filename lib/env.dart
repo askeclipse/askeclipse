@@ -869,9 +869,9 @@ Map<String, dynamic> environment = {
 
   /// Ref: https://support.inspireui.com/help-center/articles/3/25/16/google-map-address
   "googleApiKey": {
-    'android': 'AIzaSyDW3uXzZepWBPi-69BIYKyS-xo9NjFSFhQ',
-    'ios': 'AIzaSyDW3uXzZepWBPi-69BIYKyS-xo9NjFSFhQ',
-    'web': 'AIzaSyDW3uXzZepWBPi-69BIYKyS-xo9NjFSFhQ'
+    'android': 'AIzaSyAdBwwbyTFac8FEaWziHiFlLASOpOZF-90',
+    'ios': 'AIzaSyAdBwwbyTFac8FEaWziHiFlLASOpOZF-90',
+    'web': 'AIzaSyAdBwwbyTFac8FEaWziHiFlLASOpOZF-90'
   },
 
   /// ➡️ lib/common/products.dart
