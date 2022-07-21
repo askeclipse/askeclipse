@@ -13,7 +13,7 @@ import AppTrackingTransparency
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
         // TODO 1.4 - Shipping Address - Google API Key 🚢 
-        GMSServices.provideAPIKey("AIzaSyAdBwwbyTFac8FEaWziHiFlLASOpOZF-90")
+        GMSServices.provideAPIKey("AIzaSyCBZ5rsJFoiLLJpZIThzzZeCJQSrEBTlZA")
         GeneratedPluginRegistrant.register(with: self)
         if #available(iOS 10.0, *) {
             application.applicationIconBadgeNumber = 0 // Clear Badge Counts

@@ -139,7 +139,7 @@
         <!-- Google map and Admod setup -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAdBwwbyTFac8FEaWziHiFlLASOpOZF-90" />
+            android:value="AIzaSyCBZ5rsJFoiLLJpZIThzzZeCJQSrEBTlZA" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/admob_api" />
